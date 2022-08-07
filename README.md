@@ -1,6 +1,6 @@
 # Welcome
 ## Why do we need this python module?
-**This library will make you not confused in python. for examle if you want to print only part of string,**
+**This library will make you not confused in python. for examle if you want to print only part of string.**
 ## Installation
 `pip install noConfusion`
 
